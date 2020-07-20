@@ -1,12 +1,12 @@
 # OpenCore-FX505GT_FX95GT
 ## 华硕飞行堡垒7 Intel版OpenCore引导分享
 ### 基本配置：
-CPU：Intel i7-9750H (12) @ 2.60GHz
-GPU：Intel UHD Graphics 630 
-GPU：Nvidia GeForce GTX 1650 (无法驱动，已屏蔽)
-主板：FX505GT_FX95GT (HM370芯片组)
-声卡：Realtek HDA 235
-网卡：Intel Wireless-AC 9462 (实际是9560)
+CPU：Intel i7-9750H (12) @ 2.60GHz  
+GPU：Intel UHD Graphics 630  
+GPU：Nvidia GeForce GTX 1650 (无法驱动，已屏蔽)  
+主板：FX505GT_FX95GT (HM370芯片组)  
+声卡：Realtek HDA 235  
+网卡：Intel Wireless-AC 9462 (实际是9560)  
 ### OpenCore说明
 OpenCore版本0.5.9，最高支持到Catalina 10.15.6，11暂不支持，基本完美(实测一个月没发现问题)  
 声音调节(Fn+F1/F2/F3)/亮度调节快捷(Fn+F6/F7/F8)全部正常工作，Fn+F10可关闭触控板  
