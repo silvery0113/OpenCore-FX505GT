@@ -11,6 +11,7 @@ GPU：Nvidia GeForce GTX 1650 (无法驱动，已屏蔽)
 OpenCore版本0.5.9，最高支持到Catalina 10.15.6，11暂不支持，基本完美(实测一个月没发现问题)  
 声音调节(Fn+F1/F2/F3)/亮度调节快捷(Fn+F6/F7/F8)全部正常工作，Fn+F10可关闭触控板  
 已加载原生电源管理，变频正常  
+包含完整音频文件，故体积约115M  
 触控板所有手势正常(如遇失灵请往下看)  
 ##### 使用前请将BIOS以下选项更改/关闭：
 1.`Advanced`--`SATA Configuration`--`SATA Mode Selection`—-`AHCI`  
