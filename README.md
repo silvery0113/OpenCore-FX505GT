@@ -1,0 +1,1 @@
+# OpenCore-FX505GT
